@@ -1,1 +1,1 @@
-<a href="http://web.engr.oregonstate.edu/~goncharn/CS494/Project/signIn.php">Link for Website Login System</a>
+<a href="http://mysourcecode.org/osu_projects/CS494/Project">Link for Website Login System</a>
